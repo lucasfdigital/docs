@@ -1,0 +1,78 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Agilean",
+  "colors": {
+    "primary": "#ff5f1f",
+    "light": "#ff5f1f",
+    "dark": "#ff5f1f"
+  },
+  "favicon": "/favicon.svg",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Geral",
+        "groups": [
+          {
+            "group": "Comercial",
+            "pages": [
+              "introducao",
+              "atualizacao"
+            ]
+          },
+          {
+            "group": "Funil",
+            "pages": [
+              "untitled-page",
+              "pre-vendas"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/light.svg"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Support",
+        "href": "mailto:hi@mintlify.com"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Dashboard",
+      "href": "https://dashboard.mintlify.com"
+    }
+  },
+  "contextual": {
+    "options": [
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
+  },
+  "footer": {
+    "socials": {
+      "x": "https://x.com/mintlify",
+      "github": "https://github.com/mintlify",
+      "linkedin": "https://linkedin.com/company/mintlify"
+    }
+  },
+  "appearance": {
+    "strict": true,
+    "default": "light"
+  },
+  "fonts": {
+    "family": "Inter",
+    "format": "woff"
+  }
+}
