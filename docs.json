@@ -11,12 +11,15 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Geral",
+        "tab": "Comercial",
         "groups": [
           {
-            "group": "Comercial",
+            "group": "Overview",
             "pages": [
-              "introducao"
+              "introducao",
+              "estrutura-do-funil",
+              "icp",
+              "jornada-do-cliente"
             ]
           },
           {
