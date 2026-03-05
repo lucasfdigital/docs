@@ -72,7 +72,7 @@
       }
     ]
   },
-  "logo": "/images/Ativo6.png",
+  "logo": "/images/Agileean.svg",
   "navbar": {
     "links": [],
     "primary": {
@@ -95,7 +95,7 @@
   },
   "appearance": {
     "strict": true,
-    "default": "light"
+    "default": "dark"
   },
   "fonts": {
     "family": "Inter",
