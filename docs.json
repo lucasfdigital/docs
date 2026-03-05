@@ -17,8 +17,7 @@
             "group": "Overview",
             "pages": [
               "introducao",
-              "icp",
-              "jornada-do-cliente"
+              "icp"
             ]
           },
           {
@@ -52,6 +51,7 @@
                 "pages": [
                   "playbook",
                   "diagnostico",
+                  "cadencia",
                   "demonstracao-da-plataforma",
                   "proposta-comercial",
                   "negociacao-e-fechamento"
@@ -63,7 +63,9 @@
                   "handoff",
                   "kickoff",
                   "implantacao",
-                  "acompanhamento"
+                  "acompanhamento",
+                  "retencao",
+                  "expansao"
                 ]
               }
             ]
