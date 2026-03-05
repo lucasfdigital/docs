@@ -12,10 +12,12 @@
     "versions": [
       {
         "version": "0.1.3",
+        "hidden": true,
         "languages": [
           {
             "language": "pt-BR",
             "default": true,
+            "hidden": true,
             "tabs": [
               {
                 "tab": "Geral",
