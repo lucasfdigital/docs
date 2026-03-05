@@ -9,67 +9,75 @@
   },
   "favicon": "/images/alogoagilean.png",
   "navigation": {
-    "tabs": [
+    "languages": [
       {
-        "tab": "Comercial",
-        "groups": [
+        "language": "pt",
+        "tabs": [
           {
-            "group": "Overview",
-            "pages": [
-              "introducao",
-              "icp"
-            ]
-          },
-          {
-            "group": "Funil",
-            "pages": [
-              "marketing",
-              "pre-vendas",
-              "vendas",
-              "customer-sucess"
-            ]
-          },
-          {
-            "group": "Processos",
-            "pages": [
+            "tab": "Comercial",
+            "groups": [
               {
-                "group": "Marketing",
+                "group": "Overview",
                 "pages": [
-                  "aquisicao-de-mql",
-                  "untitled-page"
+                  "introducao",
+                  "icp"
                 ]
               },
               {
-                "group": "Pré-Vendas",
+                "group": "Funil",
                 "pages": [
-                  "processo-de-qualificacao",
-                  "script-de-qualificacao",
-                  "cadencia-de-contato"
+                  "marketing",
+                  "pre-vendas",
+                  "vendas",
+                  "customer-sucess"
                 ]
               },
               {
-                "group": "Vendas",
+                "group": "Processos",
                 "pages": [
-                  "playbook",
-                  "diagnostico",
-                  "cadencia",
-                  "demonstracao-da-plataforma",
-                  "proposta-comercial",
-                  "negociacao-e-fechamento"
-                ]
-              },
-              {
-                "group": "Customer Sucess",
-                "pages": [
-                  "handoff",
-                  "kickoff",
-                  "implantacao",
-                  "acompanhamento",
-                  "retencao",
-                  "expansao"
+                  {
+                    "group": "Marketing",
+                    "pages": [
+                      "aquisicao-de-mql",
+                      "untitled-page"
+                    ]
+                  },
+                  {
+                    "group": "Pré-Vendas",
+                    "pages": [
+                      "processo-de-qualificacao",
+                      "script-de-qualificacao",
+                      "cadencia-de-contato"
+                    ]
+                  },
+                  {
+                    "group": "Vendas",
+                    "pages": [
+                      "playbook",
+                      "diagnostico",
+                      "cadencia",
+                      "demonstracao-da-plataforma",
+                      "proposta-comercial",
+                      "negociacao-e-fechamento"
+                    ]
+                  },
+                  {
+                    "group": "Customer Sucess",
+                    "pages": [
+                      "handoff",
+                      "kickoff",
+                      "implantacao",
+                      "acompanhamento",
+                      "retencao",
+                      "expansao"
+                    ]
+                  }
                 ]
               }
             ]
+          },
+          {
+            "tab": "Onboarding"
           }
         ]
       }
