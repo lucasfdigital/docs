@@ -16,7 +16,6 @@
           {
             "language": "pt-BR",
             "default": true,
-            "hidden": true,
             "tabs": [
               {
                 "tab": "Geral",
