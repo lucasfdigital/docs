@@ -20,12 +20,6 @@
             "hidden": true,
             "tabs": [
               {
-                "tab": "Geral",
-                "pages": [
-                  "agilean"
-                ]
-              },
-              {
                 "tab": "Comercial",
                 "groups": [
                   {
@@ -87,6 +81,13 @@
                       }
                     ]
                   }
+                ]
+              },
+              {
+                "tab": "Geral",
+                "hidden": true,
+                "pages": [
+                  "agilean"
                 ]
               }
             ]
