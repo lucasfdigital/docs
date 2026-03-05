@@ -78,7 +78,10 @@
             ]
           },
           {
-            "tab": "Onboarding"
+            "tab": "Onboarding",
+            "pages": [
+              "background"
+            ]
           }
         ]
       }
