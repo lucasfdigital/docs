@@ -44,13 +44,13 @@
                 "group": "Pré-Vendas",
                 "pages": [
                   "processo-de-qualificacao",
-                  "script-de-qualificacao",
-                  "criterios-de-desqualificacao"
+                  "script-de-qualificacao"
                 ]
               },
               {
                 "group": "Vendas",
                 "pages": [
+                  "playbook",
                   "diagnostico",
                   "demonstracao-da-plataforma",
                   "proposta-comercial",
