@@ -9,76 +9,81 @@
   },
   "favicon": "/images/alogoagilean.png",
   "navigation": {
-    "languages": [
+    "versions": [
       {
-        "language": "pt-BR",
-        "default": true,
-        "hidden": true,
-        "tabs": [
+        "version": "0.1.3",
+        "languages": [
           {
-            "tab": "Geral",
-            "pages": [
-              "agilean"
-            ]
-          },
-          {
-            "tab": "Comercial",
-            "groups": [
+            "language": "pt-BR",
+            "default": true,
+            "hidden": true,
+            "tabs": [
               {
-                "group": "Overview",
+                "tab": "Geral",
                 "pages": [
-                  "introducao",
-                  "icp",
-                  "lead-score"
+                  "agilean"
                 ]
               },
               {
-                "group": "Funil",
-                "pages": [
-                  "marketing",
-                  "pre-vendas",
-                  "vendas",
-                  "customer-sucess"
-                ]
-              },
-              {
-                "group": "Processos",
-                "pages": [
+                "tab": "Comercial",
+                "groups": [
                   {
-                    "group": "Marketing",
+                    "group": "Overview",
                     "pages": [
-                      "aquisicao-de-mql",
-                      "lead-scoring"
+                      "introducao",
+                      "icp",
+                      "lead-score"
                     ]
                   },
                   {
-                    "group": "Pré-Vendas",
+                    "group": "Funil",
                     "pages": [
-                      "processo-de-qualificacao",
-                      "script-de-qualificacao",
-                      "cadencia-de-contato"
+                      "marketing",
+                      "pre-vendas",
+                      "vendas",
+                      "customer-sucess"
                     ]
                   },
                   {
-                    "group": "Vendas",
+                    "group": "Processos",
                     "pages": [
-                      "playbook",
-                      "diagnostico",
-                      "cadencia",
-                      "demonstracao-da-plataforma",
-                      "proposta-comercial",
-                      "negociacao-e-fechamento"
-                    ]
-                  },
-                  {
-                    "group": "Customer Sucess",
-                    "pages": [
-                      "handoff",
-                      "kickoff",
-                      "implantacao",
-                      "acompanhamento",
-                      "retencao",
-                      "expansao"
+                      {
+                        "group": "Marketing",
+                        "pages": [
+                          "aquisicao-de-mql",
+                          "lead-scoring"
+                        ]
+                      },
+                      {
+                        "group": "Pré-Vendas",
+                        "pages": [
+                          "processo-de-qualificacao",
+                          "script-de-qualificacao",
+                          "cadencia-de-contato"
+                        ]
+                      },
+                      {
+                        "group": "Vendas",
+                        "pages": [
+                          "playbook",
+                          "diagnostico",
+                          "cadencia",
+                          "demonstracao-da-plataforma",
+                          "proposta-comercial",
+                          "negociacao-e-fechamento"
+                        ]
+                      },
+                      {
+                        "group": "Customer Sucess",
+                        "pages": [
+                          "handoff",
+                          "kickoff",
+                          "implantacao",
+                          "acompanhamento",
+                          "retencao",
+                          "expansao"
+                        ]
+                      }
                     ]
                   }
                 ]
