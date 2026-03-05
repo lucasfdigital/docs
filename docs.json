@@ -30,6 +30,45 @@
               "vendas",
               "customer-sucess"
             ]
+          },
+          {
+            "group": "Processos",
+            "pages": [
+              {
+                "group": "Marketing",
+                "pages": [
+                  "aquisicao-de-mql",
+                  "untitled-page",
+                  "gestao-de-mql"
+                ]
+              },
+              {
+                "group": "Pré-Vendas",
+                "pages": [
+                  "processo-de-qualificacao",
+                  "script-de-qualificacao",
+                  "criterios-de-desqualificacao"
+                ]
+              },
+              {
+                "group": "Vendas",
+                "pages": [
+                  "diagnostico",
+                  "demonstracao-da-plataforma",
+                  "proposta-comercial",
+                  "negociacao-e-fechamento"
+                ]
+              },
+              {
+                "group": "Customer Sucess",
+                "pages": [
+                  "handoff",
+                  "kickoff",
+                  "implantacao",
+                  "acompanhamento"
+                ]
+              }
+            ]
           }
         ]
       }
