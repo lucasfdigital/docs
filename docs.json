@@ -18,6 +18,12 @@
             "language": "pt-BR",
             "tabs": [
               {
+                "tab": "Geral",
+                "pages": [
+                  "agilean"
+                ]
+              },
+              {
                 "tab": "Comercial",
                 "icon": "money-bill-trend-up",
                 "groups": [
@@ -80,13 +86,6 @@
                       }
                     ]
                   }
-                ]
-              },
-              {
-                "tab": "Geral",
-                "hidden": true,
-                "pages": [
-                  "agilean"
                 ]
               }
             ]
